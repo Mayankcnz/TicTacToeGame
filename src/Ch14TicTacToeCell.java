@@ -16,11 +16,8 @@ import java.text.AttributedCharacterIterator;
 import java.util.Map;
 import javax.swing.*;
 
-/**
- * This class handles the interface portion of the Tic-Tac-Toe game.
- *
- * @author Dr. Caffeine
- */
+
+ 
 public class Ch14TicTacToeCell extends JPanel  {
 
 //-----------------------------------------
