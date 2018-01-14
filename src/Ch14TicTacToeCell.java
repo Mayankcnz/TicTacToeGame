@@ -1,13 +1,4 @@
-/*
-    Introduction to OOP with Java (5th Ed), McGraw-Hill
 
-    Wu/Otani
-
-    Chapter 14 Sample Program: Tic Tac Toe
-
-    File: Ch14TicTacToeCell.java
-
-*/
 
 import javafx.scene.text.*;
 
