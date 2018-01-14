@@ -1,13 +1,3 @@
-/*
-    Introduction to OOP with Java (5th Ed), McGraw-Hill
-
-    Wu/Otani
-
-    Chapter 7 Sample Program: Tic Tac Toe Board
-
-    File: Ch14TicTacToePanel.java
-
-*/
 
 import javafx.scene.control.Cell;
 
@@ -16,20 +6,12 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.util.*;
 
-/**
- * This class handles the visual display of the Tic-Tac-Toe game.
- *
- * @author Dr. Caffeine
- */
+
+ 
 public class Ch14TicTacToePanel extends JPanel implements MouseListener {
+--------------------------------------
 
-//-----------------------------------------
-//
-//    Data Members:
-//
-//-----------------------------------------
-
-    /** Keeps track of player turn; true if circle's turn */
+ 
     private boolean circle;
     private JMenuBar turn;
     private JLabel t;
