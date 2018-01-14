@@ -3,11 +3,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-/**
- * A sample frame to illustrate the placing of nested panels.
- * This class illustrates the building of user interface only,
- * logic control for actually playing the game is NOT included.
- */
+
 class Ch14NestedPanels1 extends JFrame {
 
 //----------------------------------
