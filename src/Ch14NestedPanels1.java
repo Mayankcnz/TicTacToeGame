@@ -1,14 +1,4 @@
-/*
-    Introduction to OOP with Java (5th Ed), McGraw-Hill
 
-    Wu/Otani
-
-    Chapter 14 Sample Program: Illustrates the use of
-                              nested panels
-
-    File: Ch14NestedPanels1.java
-
-*/
 
 import javax.swing.*;
 import java.awt.*;
